@@ -20,6 +20,7 @@ Se uso para añadir elementos de menu dentro de cada menu principal
 
 ## SETONACTIONEEVENT
 Se utilizo para que se muestre en consola un mensaje dependiendo de el boton que se presione.
+
 ![image](https://github.com/kenyba15/MENU/assets/168501498/afbe4743-3854-4bc3-a529-84bec3655bb3)
 
 ## EJECUCION DEL PROGRAMA
